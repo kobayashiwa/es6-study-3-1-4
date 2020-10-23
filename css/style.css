@@ -1147,37 +1147,6 @@ h4 {
 	}
 }
 
-/** about **/
-#about {
-	background: #f8f9f9;
-	padding: 80px 5% 40px;
-	font-weight: normal;
-	line-height: 180%;
-}
-#about .container {
-	max-width: 1160px;
-	padding: 80px 5%;
-}
-#about h1 {
-	font-size: 32px;
-	margin-bottom: 48px;
-}
-#about h2 {
-	font-size: 24px;
-	margin: 40px 0 12px 0;
-	padding: 0;
-}
-#about h3 {
-	font-size: 16px;
-	margin: 16px 0 12px 0;
-}
-#about .sign {
-	font-weight: 700;
-	font-size: 16px;
-	text-align: right;
-}
-#about p {
-	text-align: justify;
-}
+
 
 
