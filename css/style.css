@@ -1005,20 +1005,6 @@ h4 {
 	.performance-box h3 {
 		align-items: center;
 	}
-	.performance {
-		width: 100%;
-		text-align: end;
-		padding-left: 14px;
-		line-height: 1;
-	}
-	.performance span {
-		font-size: 32px;
-	}
-
-	/** price **/
-	.price {
-		width: 80%;
-	}
 
 }
 
