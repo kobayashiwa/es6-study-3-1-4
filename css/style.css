@@ -1019,25 +1019,17 @@ h4 {
 	.price {
 		width: 80%;
 	}
-	.price-notes {
-		font-size: 14px;
-		font-weight: 700;
-		line-height: 140%;
-	}
-
-	/** intro **/
-	.intro .flex {
-		flex-direction: column;
-	}
-	.intro .container {
-		padding: 40px 16px;
-	}
 
 }
+
+
+
+
 .content {
 	max-width: 1160px;
 	width: 100%;
 	margin: 50vh auto 0;
+	padding: 40px;
 	transform: translateY(-50%);
 	text-align: center;
 }
