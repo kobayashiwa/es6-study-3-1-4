@@ -1108,16 +1108,6 @@ h4 {
 		height: 40px;
 		border-radius: 50%;
 	}
-	.flickity-button {
-		background: rgba(53, 67, 65, 0.07);
-	}
-	.flickity-button-icon {
-		fill: #354341;
-	}
-	.flickity-page-dots {
-		bottom: -40px;
-	}
-
 }
 
 
