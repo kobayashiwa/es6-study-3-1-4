@@ -1134,17 +1134,6 @@ h4 {
 	.function ul {
 		margin-left: -16px;
 	}
-	.function ul li {
-		width: 33.33%;
-		padding-left: 16px;	
-		margin-top: 16px;
-	}
-	.function ul li div {
-		padding: 16px;
-	}
-	.function ul li div img {
-		max-width: 56px;
-	}
 }
 
 
