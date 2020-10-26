@@ -1079,35 +1079,17 @@ h4 {
 	.flickity-viewport {
 		overflow: visible;
 	}
-	.recommend .heading {
-		padding: 64px 24px;
-	}
-	.carousel-cell .shadow-box {
-		min-width: 340px;
-		width: 100%;
-	}
-	.carousel-cell {
-		opacity: 0;
-		margin-top: 0;
-		transition:800ms ease all;
-	}
-	.is-selected {
-		opacity: unset;
-	}
-	.flickity-prev-next-button.previous {
-		position: fixed;
-		left: 2%;
-	}
-	.flickity-prev-next-button.next {
-		position: fixed;
-		right: 2%;
-	}
-	.flickity-prev-next-button {
-		top: 50%;
-		width: 40px;
-		height: 40px;
-		border-radius: 50%;
-	}
+
+}
+
+.btn {
+	display: inline-block;
+	background: #354341;
+	color: #fff;
+	font-size: 14px;
+	font-weight: 700;
+	padding: 64px 24px;
+	border-radius: 24px;
 }
 
 
