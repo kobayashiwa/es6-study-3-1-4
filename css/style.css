@@ -1032,32 +1032,30 @@ h4 {
 	.intro .container {
 		padding: 40px 16px;
 	}
-	.intro .shadow-box {
-		padding: 24px;
-		width: 100%;
-	}
-	.intro .shadow-box .textBox {
-		width: 100%;
-		padding: 0;
-	}
-	.intro .left {
-		margin: 0;
-	}
 
 }
-
+.content {
+	max-width: 1160px;
+	width: 100%;
+	margin: 50vh auto 0;
+	transform: translateY(-50%);
+	text-align: center;
+}
 .btn {
 	display: inline-block;
 	background: #354341;
+	border: 2px solid #354341;
 	color: #fff;
 	font-size: 14px;
 	font-weight: 700;
-	padding: 64px 24px;
+	padding: 64px;
 	border-radius: 24px;
+	transition:200ms ease all;
 }
 .btn:hover {
 	color: #354341;
 	background: rgba(20, 53, 60, 0.05);
+	border: 2px solid #354341;
 }
 
 
