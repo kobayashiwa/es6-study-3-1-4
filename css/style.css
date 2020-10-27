@@ -927,18 +927,6 @@ h4 {
 		width: 100%;
 		text-align: center;
 	}
-	.enter-top .screenBox {
-		flex: 1;
-		position: relative;
-	}
-	.enter-top .screenBox img {
-		margin-top: 0;
-		padding-left: 0;
-		position: relative;
-		top: -50px;
-		left: -40px;
-		width: 130%;
-	}
 
 
 }
@@ -973,6 +961,7 @@ h4 {
 .modal {
 	display: none;
 	height: 100vh;
+	position: fixed;
 }
 .modal__content p {
 	font-size: 16px;
