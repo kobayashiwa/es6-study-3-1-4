@@ -965,18 +965,6 @@ h4 {
 	.service .container {
 		flex-direction: column;
 	}
-	.service .num {
-		font-size: 56px;
-		text-align: center;
-	}
-	.service .mobile {
-		display: inline-block;
-		border: 1px solid #354341;
-		padding: 8px 16px;
-		border-radius: 4px;
-		margin-top: 24px;
-	}
-
 
 }
 
@@ -1010,6 +998,13 @@ h4 {
 .modal__content p {
 	font-size: 16px;
 	padding: 12px 20px;	
+}
+.modal__content a {
+	display: inline-block;
+	border: 1px solid #354341;
+	padding: 8px 16px;
+	border-radius: 4px;
+	margin-top: 24px;
 }
 
 
