@@ -957,14 +957,6 @@ h4 {
 	.solution-list li img {
 		width: 48px;
 	}
-	.IcoSolution {
-		margin-right: 10px;
-	}
-
-	/** service **/
-	.service .container {
-		flex-direction: column;
-	}
 
 }
 
@@ -1009,6 +1001,11 @@ h4 {
 	padding: 8px 40px;
 	border-radius: 24px;
 	transition:200ms ease all;
+}
+.modal__content a:hover {
+	color: #354341;
+	background: rgba(20, 53, 60, 0.05);
+	border: 2px solid #354341;
 }
 
 
