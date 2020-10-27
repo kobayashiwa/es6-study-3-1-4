@@ -946,6 +946,7 @@ h4 {
 	height: 100vh;
 	position: fixed;
 	top: 0;
+	width: 100%;
 }
 .modal__content p {
 	font-size: 16px;
