@@ -940,16 +940,6 @@ h4 {
 		width: 130%;
 	}
 
-    
-	/** solution **/
-	.solution-list ul {
-		flex-direction: column;
-	}
-	.solution-list ul li {
-		max-width: 320px;
-		padding: 16px 32px;
-		margin-bottom: 24px;
-	}
 
 }
 
@@ -982,6 +972,7 @@ h4 {
 }
 .modal {
 	display: none;
+	height: 100vh;
 }
 .modal__content p {
 	font-size: 16px;
