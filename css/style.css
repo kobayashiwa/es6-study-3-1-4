@@ -1001,10 +1001,14 @@ h4 {
 }
 .modal__content a {
 	display: inline-block;
-	border: 1px solid #354341;
-	padding: 8px 16px;
-	border-radius: 4px;
-	margin-top: 24px;
+	background: #354341;
+	border: 2px solid #354341;
+	color: #fff;
+	font-size: 14px;
+	font-weight: 700;
+	padding: 8px 40px;
+	border-radius: 24px;
+	transition:200ms ease all;
 }
 
 
