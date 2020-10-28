@@ -808,19 +808,6 @@ h4 {
 	h1 span br {
 		display: block;
 	}
-	h2 {
-		font-size: 24px;
-		text-align: left;
-		padding: 0 16px;
-	}
-	h2 span br {
-		display: none;
-	}
-	.enter-top h2 {
-		font-size: 16px;
-		max-width: 100%;
-		padding: 0;
-	}
 }
 
 
@@ -869,6 +856,8 @@ h4 {
 	position: absolute;
 	width: 50%;
 	padding: 56px;
+	left: 50%;
+	top: 50%;
 }
 .modal__content p {
 	font-size: 16px;
