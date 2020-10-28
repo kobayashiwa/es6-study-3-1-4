@@ -203,25 +203,6 @@ footer li a:hover{
 	background: linear-gradient(to bottom, #fff 0%, #fff 50%, #F8F9F9 50%, #F8F9F9 100%);
 	width: 100%;	
 }
-.gray-top {
-	background: linear-gradient(to bottom, #F8F9F9 0%, #F8F9F9 50%, #fff 50%, #fff 100%);
-	width: 100%;	
-}
-
-/** Typo **/
-h1 {
-	font-size: 72px;
-	line-height: 140%;
-	text-align: center;
-}
-.enter-top h1 {
-	line-height: 130%;
-}
-
-
-
-
-
 
 
 
@@ -293,6 +274,7 @@ button {
 	font-weight: 700;
 	line-height: 1;
 	margin: 48px auto 0;
+	outline: none;
 }
 
 
