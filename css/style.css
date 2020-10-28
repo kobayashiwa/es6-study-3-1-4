@@ -797,17 +797,6 @@ h4 {
 	footer p {
 		text-align: center;
 	}
-
-	/** typo **/
-	.smb-top h1 {
-		font-size: 10vmin;
-	}
-	.enter-top h1 {
-		font-size: 8vmin;
-	}
-	h1 span br {
-		display: block;
-	}
 }
 
 
@@ -849,7 +838,6 @@ h4 {
 	position: absolute;
 	height: 100vh;
 	width: 100vw;
-
 }
 .modal__content {
 	background: #fff;
@@ -858,6 +846,7 @@ h4 {
 	padding: 56px;
 	left: 50%;
 	top: 50%;
+	transform: translate(-50%, -50%);
 }
 .modal__content p {
 	font-size: 16px;
