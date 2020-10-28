@@ -583,22 +583,15 @@ h4 {
 .function {
 	text-align: center;
 }
-.function ul {
-	flex-wrap: wrap;
-	align-items: flex-start;
-	margin-left: -40px;
-}
-.function ul li {
-	width: 20%;
-	padding-left: 40px;	
-	margin-top: 40px;
-}
-.function ul li div {
-	padding: 16px;
-	background: #F8F9F9;
-	border-radius: 4px;
-	width: 100%;
-}
+
+
+
+
+
+
+
+
+
 
 
 .content {

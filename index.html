@@ -18,15 +18,21 @@
             <div class="modal__content">
                 <div class="heading"><img src="images/VISA-Logo.svg" alt="VISA"></div>
                 <form>
-                    <label for="label-CardNumber">CARD NUMBER</label>
-                    <input type="text" name="CardNumber" id="label-CardNumber" autocomplete="cc-number">
-                    <label for="label-CVC">CVC</label>
-                    <input type="text" name="CVC" id="label-CVC" autocomplete="cc-csc">
-                    <label for="label-HolderName">HOLDER NAME</label>
-                    <input type="text" name="HolderName" id="label-HolderName" autocomplete="cc-name">
-                    <label for="label-ExDate">EXPIRATION DATE</label>
-                    <input type="text" name="ExMonth" autocomplete="cc-exp-month">
-                
+                    <div>
+                        <label for="label-CardNumber">CARD NUMBER</label>
+                        <input type="text" name="CardNumber" id="label-CardNumber" autocomplete="cc-number">
+                        <label for="label-CVC">CVC</label>
+                        <input type="text" name="CVC" id="label-CVC" autocomplete="cc-csc">
+                    </div>
+                    <div>
+                        <label for="label-HolderName">HOLDER NAME</label>
+                        <input type="text" name="HolderName" id="label-HolderName" autocomplete="cc-name">
+                    </div>
+                    <div>
+                        <label for="label-ExDate">EXPIRATION DATE</label>
+                        <input type="text" name="ExMonth" autocomplete="cc-exp-month">
+                        <input type="text" name="ExYear" autocomplete="cc-exp-year">
+                    </div>
                     <button type="button" class="js-modal-close">COMPLETE PAYMENT</button>
                 </form>
             </div><!-- modal__content -->
