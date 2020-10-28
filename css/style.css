@@ -682,18 +682,6 @@ h4 {
 		padding-left: 24px;
 	}
 
-	/** intro **/
-	.intro .shadow-box {
-		padding: 20px;
-	}
-	.intro .shadow-box .textBox {
-		padding: 20px;
-	}
-	.intro .right .textBox {
-		margin: 0 0 0 auto;
-		width: 80%;
-	}
-
 }
 
 
