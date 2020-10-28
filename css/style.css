@@ -693,19 +693,6 @@ h4 {
 		margin: 0 0 0 auto;
 		width: 80%;
 	}
-	.intro .right .screenBox {
-		right: 80%;
-	}
-
-	/** solution **/
-	.solution-list li img {
-		width: 64px;
-	}
-
-	/** service **/
-	.service .num {
-		font-size: 64px;
-	}
 
 }
 
@@ -754,7 +741,7 @@ h4 {
 	position: absolute;
 	max-width: 600px;
 	width: 90%;
-	padding: 56px;
+	padding: 48px;
 	left: 50%;
 	top: 50%;
 	transform: translate(-50%, -50%);
