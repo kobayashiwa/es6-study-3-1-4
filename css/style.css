@@ -547,31 +547,15 @@ h4 {
 	margin-top: 0;
 	transform: none;
 }
-.carousel-cell .shadow-box {
-	width: 380px;
-	padding: 48px 32px 32px 32px;
-	height: 100%;
-	position: relative;
-}
-.carousel-cell .shadow-box .name {
-	font-size: 14px;
-	font-weight: 700;
-	text-align: center;
-	padding-bottom: 8px;
-}
-.chargeAvatar {
-	position: absolute;
-	top: 0;
-	left: 50%;
-	transform: translate(-50%, -50%);
-}
 
 
 
-input {
+
+input, button {
 	-webkit-appearance: none;
 	-moz-appearance: none;
 	appearance: none;
+	font-family: inherit;
 }
 
 
