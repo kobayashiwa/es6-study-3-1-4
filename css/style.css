@@ -565,24 +565,6 @@ h4 {
 	left: 50%;
 	transform: translate(-50%, -50%);
 }
-.recommend h3 {
-	display: inline-block;
-	background: #354341;
-	color: #fff;
-	font-size: 16px;
-	padding: 8px 24px;
-	border-radius: 40px;
-	margin-bottom: 24px;
-}
-.carousel-cell p {
-	font-weight: normal;
-	line-height: 160%;
-}
-
-/** function **/
-.function {
-	text-align: center;
-}
 
 
 
