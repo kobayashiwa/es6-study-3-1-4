@@ -725,15 +725,6 @@ h4 {
 		font-weight: normal;
 		line-height: 180%;
 	}
-	.enterpriseLink {
-		display: none;
-	}
-	.container {
-		padding:  64px 24px;
-	}
-	.arrow img {
-		height: 80px;
-	}
 
 }
 
@@ -779,6 +770,7 @@ h4 {
 .modal__content {
 	background: #fff;
 	box-shadow: 0px 15px 30px rgba(0, 0, 0, 0.3);
+	border-radius: 8px;
 	position: absolute;
 	width: 50%;
 	padding: 56px;
