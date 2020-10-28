@@ -19,11 +19,12 @@
                 <div class="heading"><img src="images/VISA-Logo.svg" alt="VISA"></div>
                 <form>
                     <label for="label-CardNumber">CARD NUMBER</label>
-                    <input type="text" name="CardNumber" id="label-CardNumber">
+                    <input type="text" name="CardNumber" id="label-CardNumber" autocomplete="cc-number">
                     <label for="label-CVC">CVC</label>
-                    <input type="text" name="CVC" id="label-CVC">
+                    <input type="text" name="CVC" id="label-CVC" autocomplete="cc-csc">
                     <label for="label-HolderName">HOLDER NAME</label>
-                    <input type="text" name="HolderName" id="label-HolderName">
+                    <input type="text" name="HolderName" id="label-HolderName" autocomplete="cc-name">
+                    <label for="label-ExDate">EXPIRATION DATE</label>
                     <button type="button" class="js-modal-close">ボタン</button>
                 </form>
             </div><!-- modal__content -->
