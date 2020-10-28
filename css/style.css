@@ -861,16 +861,6 @@ h4 {
 	.service h3 {
 		text-align: center;
 	}
-	.performance-box h3 {
-		font-size: 16px;
-	}
-	.intro h3 {
-		font-size: 20px;
-	}
-	.function h3 {
-		font-size: 12px;
-		padding: 8px;
-	}
 
 }
 
@@ -912,6 +902,8 @@ h4 {
 	background: rgba(0, 0, 0, 0.8);
 	position: absolute;
 	height: 100vh;
+	width: 100vw;
+
 }
 .modal__content p {
 	font-size: 16px;
