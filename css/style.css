@@ -191,18 +191,11 @@ footer li a:hover{
 	padding: 16px 180px;
 	box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
 }
-.text-link {
-	font-size: 14px;
-	color: #E44C6F;
-	text-decoration: underline;
-}
-.text-link:hover {
-	text-decoration: none;
-}
-.gray-bottom {
-	background: linear-gradient(to bottom, #fff 0%, #fff 50%, #F8F9F9 50%, #F8F9F9 100%);
-	width: 100%;	
-}
+
+
+
+
+
 
 
 
@@ -275,6 +268,7 @@ button {
 	line-height: 1;
 	margin: 48px auto 0;
 	outline: none;
+	padding: 24px 48px;
 }
 
 
