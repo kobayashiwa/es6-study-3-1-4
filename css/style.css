@@ -531,23 +531,6 @@ h4 {
 .recommend .container {
 	padding: 80px;
 }
-.main-carousel {
-	padding: 40px;
-	height: auto;
-}
-.carousel-cell {
-	opacity: .7;
-	padding: 20px;
-	height: auto;
-	margin-top: 24px;
-
-}
-.is-selected {
-	opacity: unset;
-	margin-top: 0;
-	transform: none;
-}
-
 
 
 
@@ -556,6 +539,7 @@ input, button {
 	-moz-appearance: none;
 	appearance: none;
 	font-family: inherit;
+	border-radius: 0;
 }
 
 
