@@ -517,29 +517,18 @@ h4 {
 	transform: translate(0, -50%);
 	text-align: center;
 }
-.intro .right .screenBox img {
-	box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.15);
-	border-radius: 4px;
-}
-.intro p {
-	font-size: 14px;
-	font-weight: normal;
-	line-height: 180%;
-}
-
-/** recommend **/
-.recommend .container {
-	padding: 80px;
-}
 
 
 
-input, button {
+
+
+input, button, textarea {
 	-webkit-appearance: none;
 	-moz-appearance: none;
 	appearance: none;
 	font-family: inherit;
 	border-radius: 0;
+	box-sizing: border-box;
 }
 
 
