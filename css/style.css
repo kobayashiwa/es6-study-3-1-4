@@ -256,17 +256,6 @@ h3 {
 .solution-box h3 {
 	font-size: 16px;
 }
-.performance-box h3, .intro h3 {
-	font-size: 24px;
-}
-.function h3 {
-	font-size: 16px;
-	padding: 16px 16px 16px 24px;
-}
-h4 {
-	font-size: 24px;
-	line-height: 140%;
-}
 
 
 
@@ -334,6 +323,7 @@ button {
 	background: linear-gradient(90deg, #4A67E7 0.97%, #3942B8 99.29%);
 	border: none;
 	border-radius: 8px;
+	color: #fff;
 }
 
 
