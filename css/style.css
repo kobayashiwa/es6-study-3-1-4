@@ -612,17 +612,6 @@ h4 {
 	width: fit-content;
 	text-align: center;
 }
-.introduction p {
-	text-align: left;
-}
-
-/** max-width: 1000px **/
-@media (max-width: 1000px) {
-	body {
-		font-size: 15px;
-	}
-
-}
 
 
 
