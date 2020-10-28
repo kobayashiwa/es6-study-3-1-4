@@ -458,19 +458,6 @@ h4 {
 	margin: 0 auto;
 	background: #fff;
 }
-.price section {
-	text-align: center;
-	margin-top: 40px;
-}
-.price section p {
-	text-align: center;
-}
-
-/** intro **/
-.intro {
-	max-width: 1320px;
-	margin: 0 auto;
-}
 
 
 
@@ -488,6 +475,20 @@ input, button, textarea, select {
 }
 label {
 	cursor: pointer;
+}
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button,
+input[type="month"]::-webkit-outer-spin-button,
+input[type="month"]::-webkit-inner-spin-button,
+input[type="datetime-local"]::-webkit-outer-spin-button,
+input[type="datetime-local"]::-webkit-inner-spin-button,
+input[type="week"]::-webkit-outer-spin-button,
+input[type="week"]::-webkit-inner-spin-button,
+input[type="time"]::-webkit-outer-spin-button,
+input[type="time"]::-webkit-inner-spin-button,
+input[type="date"]::-webkit-outer-spin-button,
+input[type="date"]::-webkit-inner-spin-button {
+  display: none;
 }
 
 
