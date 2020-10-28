@@ -382,26 +382,6 @@ h4 {
 	width: 48px;
 	margin-right: 16px;
 }
-.avatar img {
-	width: 100%;
-}
-.IcoSolution {
-	margin-right: 16px;
-}
-.worry .client h3 {
-	font-size: 20px;
-	line-height: 160%;
-	flex: 1;
-	background: #354341;
-	border-radius: 12px;
-	color: #fff;
-	padding: 14px 24px;
-	display:inline-block;
-	position:relative;
-}
-
-
-
 
 
 
@@ -453,6 +433,9 @@ input[type="datetime-local"]::-webkit-clear-button,
 input[type="time"]::-webkit-clear-button,
 input[type="week"]::-webkit-clear-button {
   -webkit-appearance: none;
+}
+input {
+	background: #E6E7EE;
 }
 
 
