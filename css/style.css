@@ -471,20 +471,6 @@ h4 {
 	max-width: 1320px;
 	margin: 0 auto;
 }
-.intro .container {
-	padding: 40px 80px;
-}
-.intro .shadow-box {
-	padding: 60px 30px;
-	width: 70%;
-	position: relative;
-}
-.intro .shadow-box .textBox {
-	width: 70%;
-	padding: 20px 30px;
-}
-
-
 
 
 
@@ -499,6 +485,9 @@ input, button, textarea, select {
 	box-sizing: border-box;
 	font-size: 16px;
 	color: inherit;
+}
+label {
+	cursor: pointer;
 }
 
 
