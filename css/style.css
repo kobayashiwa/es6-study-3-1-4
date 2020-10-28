@@ -664,12 +664,7 @@ h4 {
 	.enter-top h2 br {
 		display: none;
 	}
-	h3 {
-		font-size: 32px;
-	}
-	.performance-box h3, .intro h3 {
-		font-size: 20px;
-	}
+
 }
 
 
