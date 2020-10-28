@@ -821,18 +821,6 @@ h4 {
 		max-width: 100%;
 		padding: 0;
 	}
-	.solution h2 {
-		font-size: 24px;
-		margin-bottom: 32px;
-	}
-	.solution h2 span br {
-		display: none;
-	}
-	.top h2 span {
-		display: inline-block;
-		font-size: 15px;
-		line-height: 140%;
-	}
 }
 
 
@@ -880,6 +868,7 @@ h4 {
 	background: #fff;
 	position: absolute;
 	width: 50%;
+	padding: 56px;
 }
 .modal__content p {
 	font-size: 16px;
