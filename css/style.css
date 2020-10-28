@@ -434,30 +434,8 @@ h4 {
 	border-top: 7px solid transparent;
 	border-bottom: 9px solid transparent;
 }
-.kcom p::after{
-	content: '';
-  position: absolute;
-  display: block;
-  width: 0;
-	height: 0;
-	left: -8px;
-	top: 12px;
-	border-right: 9px solid #fff;
-	border-top: 7px solid transparent;
-	border-bottom: 9px solid transparent;
-  }
-.point {
-	margin: 40px auto 24px auto;
-	width: fit-content;
-}
 
 
-/** price **/
-.price {
-	max-width: 640px;
-	margin: 0 auto;
-	background: #fff;
-}
 
 
 
@@ -489,6 +467,14 @@ input[type="time"]::-webkit-inner-spin-button,
 input[type="date"]::-webkit-outer-spin-button,
 input[type="date"]::-webkit-inner-spin-button {
   display: none;
+}
+input[type="number"],
+input[type="month"],
+input[type="datetime-local"],
+input[type="week"],
+input[type="time"],
+input[type="date"] {
+  -moz-appearance: textfield;
 }
 
 
