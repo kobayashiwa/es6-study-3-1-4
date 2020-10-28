@@ -357,16 +357,12 @@ h4 {
 	padding: 24px 0;
 	border-bottom: 1px solid #E4E7EB;
 }
-.performance-box li:last-child {
-	border-bottom: none;
-}
-.performance-box h3 {
-	display: flex;
-	justify-content: space-between;
-}
-.performance {
-	color: #E44C6F;
-}
+
+
+
+
+
+
 
 
 
@@ -427,6 +423,7 @@ input {
 	background: #E6E7EE;
 	border: 1px solid transparent;
 	transition: border 0.2s ease-out;
+	color: inherit;
 }
 
 
