@@ -367,21 +367,10 @@ h4 {
 .performance {
 	color: #E44C6F;
 }
-.performance span {
-	font-size: 56px;
-}
 
-/** worry **/
-.voice {
-	align-items: flex-start;
-	margin-bottom: 16px;
-	width: fit-content;
-	max-width: 1160px;
-}
-.avatar {
-	width: 48px;
-	margin-right: 16px;
-}
+
+
+
 
 
 
@@ -436,6 +425,8 @@ input[type="week"]::-webkit-clear-button {
 }
 input {
 	background: #E6E7EE;
+	border: 1px solid transparent;
+	transition: border 0.2s ease-out;
 }
 
 
