@@ -217,18 +217,6 @@ h1 {
 .enter-top h1 {
 	line-height: 130%;
 }
-h1 span br {
-	display: none;
-}
-h2 {
-	font-size: 48px;
-	line-height: 140%;
-}
-.solution h2 {
-	font-size: 36px;
-	margin-bottom: 60px;
-}
-
 
 
 
@@ -304,6 +292,7 @@ button {
 	color: #fff;
 	font-weight: 700;
 	line-height: 1;
+	margin: 48px auto 0;
 }
 
 
