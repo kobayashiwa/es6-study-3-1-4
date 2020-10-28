@@ -599,20 +599,6 @@ h4 {
 	border-radius: 4px;
 	width: 100%;
 }
-.function ul li div img {
-	max-width: 64px;
-	width: 100%;
-}
-
-/** introduction **/
-.introduction {
-	margin: 0 auto;
-}
-.introduction .container {
-	width: fit-content;
-	text-align: center;
-}
-
 
 
 .content {
