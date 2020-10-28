@@ -886,17 +886,6 @@ h4 {
 		font-size: 12px;
 		padding: 8px 16px;
 	}
-	.btn-top {
-		margin: 24px 0;
-	}
-	.btnWrap div {
-		font-size: 14px;
-		text-align: center;
-	}
-	.btn-page {
-		font-size: 18px;
-		padding: 12px 48px;
-	}
 
 }
 
@@ -936,6 +925,7 @@ h4 {
 }
 .modal__bg {
 	background: rgba(0, 0, 0, 0.8);
+	position: absolute;
 }
 .modal__content p {
 	font-size: 16px;
