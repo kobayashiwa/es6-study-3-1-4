@@ -267,19 +267,6 @@ h4 {
 	font-size: 24px;
 	line-height: 140%;
 }
-.heading p {
-	font-size: 18px;
-	text-align: center;
-}
-
-/** top **/
-.top {
-	margin: 0 auto;
-}
-.smb-top {
-	text-align: center;
-}
-
 
 
 
@@ -346,6 +333,7 @@ input:focus {
 button {
 	background: linear-gradient(90deg, #4A67E7 0.97%, #3942B8 99.29%);
 	border: none;
+	border-radius: 8px;
 }
 
 
