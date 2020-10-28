@@ -503,32 +503,19 @@ h4 {
 	padding: 8px 24px;
 	border-radius: 40px;
 }
-.intro .right {
-	margin: 0 0 0 auto;
-}
-.intro .right .textBox {
-	margin: 0 0 0 auto;
-}
-.intro .right .screenBox {
-	position: absolute;
-	right: 70%;
-	width: 70%;
-	top: 50%;
-	transform: translate(0, -50%);
-	text-align: center;
-}
 
 
 
 
 
-input, button, textarea {
+input, button, textarea, select {
 	-webkit-appearance: none;
 	-moz-appearance: none;
 	appearance: none;
 	font-family: inherit;
 	border-radius: 0;
 	box-sizing: border-box;
+	font-size: 16px;
 }
 
 
