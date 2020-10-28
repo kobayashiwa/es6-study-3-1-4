@@ -642,18 +642,6 @@ h4 {
 		width: 50%;
 	}
 
-	/** typo **/
-	h1 {
-		font-size: 56px;
-	}
-	h2 {
-		font-size: 40px;
-	}
-	.solution h2 {
-		font-size: 32px;
-		margin-bottom: 40px;
-	}
-
 }
 
 
