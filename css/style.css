@@ -833,15 +833,6 @@ h4 {
 		font-size: 15px;
 		line-height: 140%;
 	}
-	.solution-list h2 {
-		font-size: 18px;
-		text-align: center;
-	}
-	.price h2, .introduction h2 {
-		font-size: 14px;
-		padding: 0px;
-	}
-
 }
 
 
@@ -888,6 +879,7 @@ h4 {
 .modal__content {
 	background: #fff;
 	position: absolute;
+	width: 50%;
 }
 .modal__content p {
 	font-size: 16px;
