@@ -670,18 +670,6 @@ h4 {
 	.performance-box h3, .intro h3 {
 		font-size: 20px;
 	}
-	h4 {
-		font-size: 20px;
-	}
-
-	/** top **/
-	.cover-container {
-		margin: -20px auto -60px auto;
-	}
-	.enter-top .screenBox img {
-		padding-left: 24px;
-	}
-
 }
 
 
