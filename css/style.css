@@ -330,28 +330,6 @@ h4 {
 	max-width: 240px;
 	width: 100%;
 }
-.solution-list li img {
-	width: 80px;
-}
-.solution-list li h3 {
-	font-size: 16px;
-	padding-top: 24px;
-}
-
-/** service **/
-.service .num {
-	font-weight: 100;
-	font-size: 72px;
-	line-height: 1;
-}
-
-
-
-
-
-
-
-
 
 
 
@@ -410,6 +388,7 @@ input {
 	transition: border 0.2s ease-out;
 	color: inherit;
 	height: 62px;
+	outline: 0;
 }
 
 
