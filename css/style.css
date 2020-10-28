@@ -304,17 +304,7 @@ h4 {
 	padding: 0 0 0 80px;
 	align-items: flex-start;
 }
-.enter-top .textBox {
-	padding: 0;
-	max-width: 240px;
-	width: 100%;
-}
-.enter-top .screenBox {
-	flex: 1;
-}
-.enter-top .screenBox img {
-	margin-top: -140px;
-}
+
 
 
 
