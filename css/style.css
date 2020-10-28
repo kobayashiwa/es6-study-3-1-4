@@ -841,16 +841,6 @@ h4 {
 		font-size: 14px;
 		padding: 0px;
 	}
-	.price h2 span, .introduction h2 span {
-		font-size: 48px;
-		padding-left: 8px;
-	}
-	h3 {
-		font-size: 28px;
-	}
-	.textBox h3 {
-		padding: 10px 0 16px 0;
-	}
 
 }
 
@@ -897,6 +887,7 @@ h4 {
 }
 .modal__content {
 	background: #fff;
+	position: absolute;
 }
 .modal__content p {
 	font-size: 16px;
