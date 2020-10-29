@@ -81,13 +81,6 @@ main {
 	width: 40%;
 	padding: 0 40px;
 }
-.textBox h3 {
-	padding: 10px 0 24px 0;
-}
-.screenBox {
-	width: 50%;
-	padding: 0 16px;
-}
 
 **/
 
@@ -161,6 +154,7 @@ input {
 	transition: border 0.2s ease-out;
 	color: inherit;
 	height: 62px;
+	width: 100%;
 	padding: 20px;
 	outline: 0;
 	border-radius: 8px;
@@ -183,6 +177,12 @@ button {
 }
 button:hover, button:focus {
 	opacity: 0.9;
+}
+.CradNum {
+	width: 70%;
+}
+.CVC {
+	width: 30%;
 }
 
 
