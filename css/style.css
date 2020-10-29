@@ -96,30 +96,7 @@ main {
 	font-size: 12px;
 	font-weight: normal;
 }
-
-/** scroll **/
-.scroll {
-	position: fixed;
-	width: 80px;
-	z-index: 1000;
-    top: 45vh;
-    left: 40px;
-}
-.scroll img {
-	text-align: center;
-}
-
-/** header **/
-
-header {
-	position: fixed;
-	top: 0;
-	z-index: 999;
-	width: 100%;
-	background: #fff;
-	box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.05);
-}
-
+**/
 
 
 
@@ -191,6 +168,7 @@ input {
 	transition: border 0.2s ease-out;
 	color: inherit;
 	height: 62px;
+	padding: 20px;
 	outline: 0;
 	border-radius: 8px;
 }
