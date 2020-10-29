@@ -72,15 +72,6 @@ main {
 .withArrow {
 	position: relative;
 }
-.arrow {
-	position: absolute;
-	left: 50vw;
-	bottom: -50px;
-}
-.textBox {
-	width: 40%;
-	padding: 0 40px;
-}
 
 **/
 
@@ -183,6 +174,13 @@ button:hover, button:focus {
 }
 .CVC {
 	width: 30%;
+	margin-left: 32px;
+}
+.ExMonth {
+	margin-right: 16px;
+}
+.ExYear {
+	margin-left: 16px;
 }
 
 
