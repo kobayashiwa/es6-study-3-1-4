@@ -18,20 +18,26 @@
             <div class="modal__content">
                 <div class="heading"><img src="images/VISA-Logo.svg" alt="VISA"></div>
                 <form>
-                    <div>
-                        <label for="label-CardNumber">CARD NUMBER</label>
-                        <input type="text" name="CardNumber" id="label-CardNumber" autocomplete="cc-number" placeholder="3333 4444 5555 6666">
-                        <label for="label-CVC">CVC</label>
-                        <input type="text" name="CVC" id="label-CVC" autocomplete="cc-csc" placeholder="777">
+                    <div class="flex">
+                        <div class="CradNum">
+                            <label for="label-CardNumber">CARD NUMBER</label>
+                            <input type="text" name="CardNumber" id="label-CardNumber" autocomplete="cc-number" placeholder="3333 4444 5555 6666">
+                        </div>
+                        <div class="CVC">
+                            <label for="label-CVC">CVC</label>
+                            <input type="text" name="CVC" id="label-CVC" autocomplete="cc-csc" placeholder="777">
+                        </div>
                     </div>
-                    <div>
+                    <div class="HolderName">
                         <label for="label-HolderName">HOLDER NAME</label>
                         <input type="text" name="HolderName" id="label-HolderName" autocomplete="cc-name" placeholder="YAMADA TARO">
                     </div>
-                    <div>
+                    <div class="ExDate">
                         <label for="label-ExDate">EXPIRATION DATE</label>
-                        <input type="text" name="ExMonth" autocomplete="cc-exp-month" placeholder="01">
-                        <input type="text" name="ExYear" autocomplete="cc-exp-year" placeholder="2020">
+                        <div class="flex">
+                            <input type="text" class="ExMonth" name="ExMonth" autocomplete="cc-exp-month" placeholder="01">
+                            <input type="text" class="ExYear" name="ExYear" autocomplete="cc-exp-year" placeholder="2020">
+                        </div>
                     </div>
                     <div>
                         <button type="submit" value="send" class="js-modal-close">COMPLETE PAYMENT</button>
