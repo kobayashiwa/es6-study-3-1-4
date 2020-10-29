@@ -54,13 +54,7 @@ ul, li {
 	background: #F8F9F9;
 	width: 100%;
 }
-main {
-	padding-top: 72px;
-}
-.heading {
-	text-align: center;
-}
-
+B9B9BB
 **/
 
 
@@ -141,6 +135,9 @@ input {
 }
 input:focus {
 	border: 1px solid #354341;
+}
+input::placeholder {
+	color: #B9B9BB;
 }
 button {
 	background: linear-gradient(90deg, #4A67E7 0.97%, #3942B8 99.29%);
