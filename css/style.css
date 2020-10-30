@@ -135,20 +135,10 @@ button:hover, button:focus {
 .ExYear {
 	margin-left: 16px;
 }
-
-
-
-
-
-
-
 .content {
 	max-width: 1160px;
 	width: 100%;
-	margin: 50vh auto 0;
 	padding: 40px;
-	transform: translateY(-50%);
-	text-align: center;
 }
 .btn {
 	display: inline-block;
@@ -160,6 +150,10 @@ button:hover, button:focus {
 	padding: 64px;
 	border-radius: 24px;
 	transition:200ms ease all;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
 }
 .btn:hover {
 	color: #354341;
