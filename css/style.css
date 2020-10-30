@@ -44,27 +44,6 @@ ul, li {
 	display: flex;
 	align-items: center;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 input, button, textarea, select {
 	-webkit-appearance: none;
 	-moz-appearance: none;
@@ -133,6 +112,7 @@ button {
 	color: #fff;
 	font-weight: 700;
 	line-height: 1;
+	width: 100%;
 	margin: 48px auto 0;
 	outline: none;
 	padding: 24px 48px;
